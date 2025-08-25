@@ -5,7 +5,7 @@ int main()
     printf("Teste");
     printf("\n");
 
-    printf("Teste 2");
+    printf("Outro teste");
     printf("\n");
 
     return 0;
